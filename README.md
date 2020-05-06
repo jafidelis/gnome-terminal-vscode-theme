@@ -11,6 +11,10 @@ Theme to Gnome Terminal like vscode
 
 > ./install.sh
 
+reopen terminal
+
 ###### Uninstall theme
 
 > ./unistall.sh 
+
+reopen terminal
